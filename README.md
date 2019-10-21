@@ -1,2 +1,2 @@
 # basePr
-some base
+some easy programming tasks
